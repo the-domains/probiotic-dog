@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Probiotic Dog]]></title>
         <description><![CDATA[Probiotic Dog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/probiotic-dog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 06:58:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 06:59:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/probiotic-dog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We don’t often read]]></title>
             <description><![CDATA[<article><h1>We don’t often read</h1><p>the fine print when we purchase things like shampoo for our dogs, but we should.  The vast majority of the grooming products  pet owners purchase, will fail to bring the results that they want for their canine companions.   </p></article>]]></description>
-            <link>undefineda2756829-c2ee-4244-a084-9f00091f3fda/index.html</link>
+            <link>https://thegrid.ai/probiotic-dog/a2756829-c2ee-4244-a084-9f00091f3fda/index.html</link>
             <guid isPermaLink="false">a2756829-c2ee-4244-a084-9f00091f3fda</guid>
-            <pubDate>Sun, 24 Jan 2016 06:57:58 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 06:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
